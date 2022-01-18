@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  margin: 50px, auto, 0, auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.profile-pic {
+  border-radius: 100px;
+  width: 15%;
+  height: 15%;
+}
+
+.img-skill {
+  width: 25%;
+  margin-right: 30px;
+  border-radius: 400px;
+  Border: 0px;
+  float: left;
+}
+
+.second-skill {
+  width: 25%;
+  margin-left: : 30px;
+  border-radius: 400px;
+  Border: 0px;
+  float: right;
+}
+
+.third-skill{
+  width: 25%;
+  margin-right: 30px;
+  border-radius: 400px;
+  Border: 0px;
+  float: left;
+}
+.underline {
+  text-decoration: underline;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #ffdada;
+  position: relative;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+
+.computer-gif {
+  width: 25%;
+  height: 25%;
+  padding: 2%;
+  border-radius: 400px;
+  Border: 0px;
+}
+
+hr {
+  border: none;
+  border-top: dotted 5px #EAF6F6;
+  width: 5%;
+}
+
+.middle-container {
+  margin-top: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.BUTTON_MQA {
+  background: #11999E;
+  border-radius: 10px;
+  width: 100px;
+  height: 20px;
+  color: white;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 100;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_MQA:hover {
+  border: solid #11999E 1px;
+  background: white;
+  border-radius: 10px;
+  color: #11999E;
+  padding: 2px;
+  font-size: 150;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  margin-top: 20px;
+  padding: 2%;
+}
+
+.footer-link {
+  padding: 10px;
+  color: #66BFBF;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.footer-rights {
+  color: white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+.button-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
